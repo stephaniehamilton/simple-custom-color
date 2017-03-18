@@ -1,0 +1,43 @@
+nav {
+/*
+Revisit this when I learn how to change the nav with inputs
+background-color: #666;*/
+  margin-top: 100px;
+  padding: 8px;
+}
+
+nav ul li {
+  text-decoration: none;
+  display: inline;
+  padding: 20px;
+  height: 100%;
+}
+
+
+li a {
+    /*color: #fff;*/
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline;
+    margin-bottom: 100px;
+    padding: 20px;
+    height: 100%;
+    vertical-align: middle;
+}
+
+/*will fill this in when I learn how to change this with JS
+li a:hover {
+  background-color: #000;
+} */
+
+#myHeading, #lilP {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
+}
+
+.inputFields ul li {
+  display: block;
+  text-decoration: none;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
